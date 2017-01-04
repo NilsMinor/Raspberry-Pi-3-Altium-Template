@@ -17,6 +17,7 @@ Dimensions from template pcb, made by altiums draftsman
 
 ![Alt text](images/drawing2.png?raw=true "draftsman dimensioning")
 
-# Nils Minor
+kindly
+# Nils
 
 
