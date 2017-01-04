@@ -11,11 +11,11 @@ Here is a preview on how it looks in 3D, on top of an raspberry pi.
 
 The original drawing of the raspberry dimensions.
 
-![Alt text](relative/path/to/drawing1.png?raw=true "Original drawing of model B")
+![Alt text](images/drawing1.png?raw=true "Original drawing of model B")
 
 Dimensions from template pcb, made by altiums draftsman
 
-![Alt text](relative/path/to/drawing2.png?raw=true "draftsman dimensioning")
+![Alt text](images/drawing2.png?raw=true "draftsman dimensioning")
 
 # Nils Minor
 
