@@ -1,0 +1,35 @@
+[0608/111528:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0608/111528:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0608/111528:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {3CE50584-BE80-4DCD-B42F-93A787B62657}\BrowserCache to C:\ProgramData\Altium\Altium Designer {3CE50584-BE80-4DCD-B42F-93A787B62657}\old_BrowserCache_000
+[0608/111528:ERROR:cache_creator.cc(129)] Unable to create cache
+[0608/111912:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111917:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111922:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111927:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111932:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111933:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111933:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111937:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111938:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111938:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111942:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111943:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111943:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111947:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111948:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111948:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111952:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111953:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111953:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111957:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111958:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/111958:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112002:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112003:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112003:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112007:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112008:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112008:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112012:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112013:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0608/112013:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
